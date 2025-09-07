@@ -18,6 +18,7 @@ DLL Source: <https://sourceforge.net/projects/mpv-player-windows/files/libmpv/>
 
 Working versions, newer is better:
 
+- [20250907](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/mpv-dev-x86_64-v3-20250907-git-b9ceaf2.7z/download)
 - [20250824](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/mpv-dev-x86_64-v3-20250824-git-5faec4e.7z/download)
 - [20250525](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/mpv-dev-x86_64-v3-20250525-git-1d1535f.7z/download)
 
